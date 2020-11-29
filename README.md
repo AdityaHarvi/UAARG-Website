@@ -2,8 +2,8 @@
 Complete rework of the UAARG website
 
 Lead Developer: Aditya Harvi
-Assistent Developer: Ricky Au
-Special thank you to Natalia Oltuszyk for help with the design of the Website.
+\nAssistent Developer: Ricky Au
+\nSpecial thank you to Natalia Oltuszyk for help with the design of the Website.
 
 This is a complete redesign of the University Club- UAARG's- website.
 Check it out here:
