@@ -6,4 +6,5 @@ Assistent Developer: Ricky Au
 Special thank you to Natalia Oltuszyk for help with the design of the Website.
 
 This is a complete redesign of the University Club- UAARG's- website.
-Currently under development.
+Check it out here:
+https://uaarg.com/
